@@ -1,0 +1,56 @@
+body{ 
+    text-align:center; 
+}
+.container{
+    background-color:aquamarine; 
+}
+#pro{
+    width:400px;
+    border:solid;
+    border-color:black;
+}
+#welcome{
+    background-color:plum;
+    padding:30px; 
+}
+ul{
+list-style:none;
+    font-family:monospace;
+    position:fixed;
+    top:0px;
+    margin-top:0px; 
+    z-index: 10;
+    cursor: pointer;
+    background-color:antiquewhite;
+    width:100%;
+}
+a{
+    text-decoration:none;
+}
+.links {
+    color: aqua;
+    font-family:serif;
+    font-size: 20px;
+    font-weight: 600;
+    display:inline;
+    margin:10px; 
+}
+
+.links:hover {
+    background-color:blanchedalmond;
+    font-size: 24px;
+    text-decoration:underline; 
+}
+.gridgall{
+    width:250px;
+    margin:10px;
+    border:solid;
+    border-color:black;
+}
+#grid{
+    background-color:deepskyblue;
+    padding:25px; 
+}
+#slide{
+    padding:25px; 
+}
